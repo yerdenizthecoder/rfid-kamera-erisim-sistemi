@@ -1,3 +1,4 @@
+// OV2640 kamera surucu ve pin dogrulamasi tamamlandi
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
